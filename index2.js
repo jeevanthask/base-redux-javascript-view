@@ -6,7 +6,7 @@ const BASKET_FILL = 'BASKET_FILL'
 function incrementCount() {
     return {
         type: BASKET_FILL,
-        info: 'goimg to fill the basket'
+        info: 'going to fill the basket'
     }
 }
 
